@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var models = require('../models/models.js');
 
 // Autoload - factoriza el código si ruta incluye :quizId
@@ -113,4 +114,18 @@ exports.destroy = function(req, res){
 	req.quiz.destroy().then( function() {
 		res.redirect('/quizes');
 	  }).catch(function(error){ next(error);});
+=======
+//GET /quizes/question
+exports.question = function(req, res){
+	res.render('quizes/question', {pregunta: 'Capital de Italia'});
+};
+
+//GET /quizes/answer
+exports.answer = function(req, res){
+	if (req.query.respuesta === 'Roma'){
+		res.render('quizes/answer', {respuesta: 'Corresto'});
+	} else {
+		res.render('quizes/answer', {respuesta: 'Incorresto'});
+	}
+>>>>>>> 28430ff127126c21ccf6f2020e0e40073312221f
 };

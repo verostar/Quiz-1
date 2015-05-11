@@ -3,9 +3,18 @@
   <head>
     <title><%= title %></title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
+<<<<<<< HEAD
   </head>
   <body>
     <h1><%= title %></h1>
     <p>Welcome to <%= title %></p>
+=======
+    <link rel='icon' href='favicon.ico' type= 'image/x-icon' />
+  </head>
+  <body>
+    <h3>Bienvenido a <%= title %></h3>
+    <p>El portal donde podra crear sus propios juegos</p>
+    <p><a href = "/quizes/question">Comience a jugar</a></p>
+>>>>>>> 28430ff127126c21ccf6f2020e0e40073312221f
   </body>
 </html>

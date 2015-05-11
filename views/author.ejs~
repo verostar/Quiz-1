@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+<<<<<<< HEAD
     <title><%= title %></title>
     <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <link rel='stylesheet' href='/stylesheets/style.css' />
@@ -23,5 +24,16 @@
 			<br>
 		</h2>
 	</div>
+=======
+    <meta charset ="utf-8"><title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel='icon' href='favicon.ico' type= 'image/x-icon' />
+  </head>
+  <body>
+    <h3><%= title %></h3>
+    <p>Fernando Estevez Llaveria y Javier Garcia Diaz</p>
+    <div id="fotof" class="img"><img width="150" height ="130" src="felnando.jpg"></div>
+    <div id="fotoj" class="img"><img src="aviel.jpg"></div>
+>>>>>>> 28430ff127126c21ccf6f2020e0e40073312221f
   </body>
 </html>
