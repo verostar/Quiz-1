@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h3>Autores de <%= title %></h3>
+    <p>¡El portal donde podrá crear sus propios juegos!</p>
+    <p><a href="/quizes">¡Comience a jugar!</a></p>
+    <p></p>
+    <div class="cuerpo">
+		<h2>
+			<div id="Foto1">
+			<img src="/images/miguel.jpg"><br>
+			<p id="Nombre1">Miguel Ángel Muñoz Sanz</p>
+			</div>
+			<div id="Foto2">
+			<img src="/images/vero.jpg"><br>
+			<p id="Nombre2">Veronica Ortiz Leal</p>
+			</div>
+			<br>
+		</h2>
+	</div>
+  </body>
+</html>
