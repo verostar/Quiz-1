@@ -1,0 +1,73 @@
+[33mcommit a32222ab817c130eb4ccd2e86a18e66fdf489523[m
+Merge: 653c961 28430ff
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Mon May 11 20:33:48 2015 +0200
+
+    version 5
+
+[33mcommit 653c961f479cbae7964e414a3cd8d697985b46f8[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Mon May 11 20:15:18 2015 +0200
+
+    identificacion de version
+
+[33mcommit 651491dfb00f6e27a8bd2ac15e2dfe6c324e171c[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Mon May 11 20:09:05 2015 +0200
+
+    Version 2
+
+[33mcommit 28430ff127126c21ccf6f2020e0e40073312221f[m
+Merge: 05aad81 854f479
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Thu Apr 30 16:28:24 2015 +0200
+
+    Merge branch 'creditos'
+
+[33mcommit 05aad81dc6ece34b985c1b8535bdd36977ed1629[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Thu Apr 30 16:28:17 2015 +0200
+
+    Todo
+
+[33mcommit 854f479825661057a7af2a9e055a88c8b73a1907[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Thu Apr 30 15:56:05 2015 +0200
+
+    creditos
+
+[33mcommit 787d04b5d68fa2a2dc95a613a4a9b8ddd041d7eb[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Thu Apr 30 12:56:07 2015 +0200
+
+    Version con css
+
+[33mcommit a50c33bcf3a39a904a0072d9e105ce96f8c4bd93[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Wed Apr 29 16:50:08 2015 +0200
+
+    Primera pregunta
+
+[33mcommit bd91b903a2c4fcb0734deeefbb123b55f5c102f0[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Wed Apr 29 15:21:51 2015 +0200
+
+    Primera pagina y favicon
+
+[33mcommit b5334c0b5c0f98f1ca843529e61fc5ae70546c98[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Wed Apr 29 15:19:46 2015 +0200
+
+    Primera pagina y favicon
+
+[33mcommit 4ecac2a9c9c46cd54b6e6504c0fd050d44cd8774[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Wed Apr 29 14:54:46 2015 +0200
+
+    Primera pagina y favicon
+
+[33mcommit b33eb83df9da9a96cc97c653422776737109df32[m
+Author: jgdiaz <javi.gdiaz93@gmail.com>
+Date:   Wed Apr 29 14:11:32 2015 +0200
+
+    esqueleto express-generator

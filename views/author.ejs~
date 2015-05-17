@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-<<<<<<< HEAD
+
     <title><%= title %></title>
     <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <link rel='stylesheet' href='/stylesheets/style.css' />
@@ -13,18 +13,14 @@
     <p></p>
     <div class="cuerpo">
 		<h2>
-			<div id="Foto1">
-			<img src="/images/miguel.jpg"><br>
-			<p id="Nombre1">Miguel Ángel Muñoz Sanz</p>
-			</div>
-			<div id="Foto2">
-			<img src="/images/vero.jpg"><br>
-			<p id="Nombre2">Veronica Ortiz Leal</p>
-			</div>
+			<div id="fotof" class="img"><img width="150" height ="130" src="felnando.jpg"></div>
+    <div id="fotoj" class="img"><img height="130" src="aviel.jpg">
+    </div>
 			<br>
+		
 		</h2>
 	</div>
-=======
+
     <meta charset ="utf-8"><title><%= title %></title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
     <link rel='icon' href='favicon.ico' type= 'image/x-icon' />
@@ -33,7 +29,6 @@
     <h3><%= title %></h3>
     <p>Fernando Estevez Llaveria y Javier Garcia Diaz</p>
     <div id="fotof" class="img"><img width="150" height ="130" src="felnando.jpg"></div>
-    <div id="fotoj" class="img"><img src="aviel.jpg"></div>
->>>>>>> 28430ff127126c21ccf6f2020e0e40073312221f
+    <div id="fotoj" class="img"><img height="130" src="aviel.jpg"></div>
   </body>
 </html>
