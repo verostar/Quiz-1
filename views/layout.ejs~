@@ -50,8 +50,10 @@
 	<footer class="main" id="f1">
 		<a href="http://es.wikipedia.org/wiki/Quiz">
 		¿Que es un Quiz?</a>
-		<a href="https://github.com/Galforcete/quiz">
-		GitHub</a>
+		<a href="https://github.com/jgdiaz/quiz">
+		GitHub de Javier</a>
+		<a href="https://github.com/festevez12/quiz">
+		GitHub de Fernando</a>
 	</footer>
 </div>
 </body>
